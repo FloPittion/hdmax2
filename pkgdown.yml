@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.0.8
+pkgdown_sha: ~
+articles:
+  hdmax2_tutorial: hdmax2_tutorial.html
+last_built: 2024-04-17T08:36Z
+urls:
+  reference: https://bcm-uga.github.io/hdmax2/reference
+  article: https://bcm-uga.github.io/hdmax2/articles
+
